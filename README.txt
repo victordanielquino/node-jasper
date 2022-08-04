@@ -13,3 +13,6 @@ https://www.lachicainformatica.com/2020/01/generacion-de-reportes-en-nodejs-con-
 para iniciar:
 npm i
 node app.js
+
+nota: se debe tener java configurado entre las variables de entorno, para serciorarse de esto, desde la terminal:
+echo $JAVA_HOME
