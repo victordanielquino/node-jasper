@@ -37,3 +37,4 @@ lerna-debug.log*
 /data_postgres
 /data_mysql
 /lib
+/lib2
