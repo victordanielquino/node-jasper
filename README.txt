@@ -10,3 +10,5 @@ node app.js
 
 nota: se debe tener java configurado entre las variables de entorno, para serciorarse de esto, desde la terminal:
 echo $JAVA_HOME
+
+dentro de la libreria se debe copiar el directorio reports que esta hecho en jasper.
