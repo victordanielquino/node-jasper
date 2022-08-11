@@ -1,18 +1,16 @@
 {
-  "name": "express",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.1",
-    "java": "^0.12.2",
-    "node-jasper": "^0.2.5",
-    "node-jasper-report": "^1.0.29"
-  }
+	"name": "express",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.1",
+		"node-jasper": "^0.2.5"
+	}
 }

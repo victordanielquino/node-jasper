@@ -1,14 +1,8 @@
-se debe de descargar la siguiente libreria:(la aplicacion se levanto con la 5.6.0)
+se debe de descargar la siguiente libreria:
 y se la debe descomprimir en la raiz en lib/
-jasperreports-5.6.0-project.zip
-https://sourceforge.net/projects/jasperreports/files/archive/jasperreports/JasperReports%205.6.0/jasperreports-5.6.0-project.zip/download
+jasperreports-6.2.0-project.zip
 
-jasperreports-6.11.0-project.zip
-https://sourceforge.net/projects/jasperreports/files/archive/jasperreports/JasperReports%206.11.0/jasperreports-javaflow-6.11.0.jar/download
-
-referencias tomadas:
-https://www.npmjs.com/package/node-jasper
-https://www.lachicainformatica.com/2020/01/generacion-de-reportes-en-nodejs-con-node-jasper.html
+https://sourceforge.net/projects/jasperreports/files/archive/jasperreports/JasperReports%206.2.0/?fbclid=IwAR1iw43aHKWEAKnjTnfPM0s7YKGQXUZ2X8sTcCk1nskEVz12uTMouSXGk7o
 
 para iniciar:
 npm i

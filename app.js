@@ -1,16 +1,17 @@
 const express = require('express'),
 	app = express(),
 	jasper = require('node-jasper')({
-		path: 'lib/jasperreports-5.6.0',
+		path: 'lib3/jasperreports-6.2.0',
 		reports: {
 			hw: {
-				jasper: './reports/hello_world.jasper',
+				jasper: 'lib3/jasperreports-6.2.0/reports/hello_world.jasper',
 			},
 		},
 	});
 
 app.get('/report', function (req, res, next) {
 	console.log('entrou *****************');
+	console.log(jasper);
 	let report = {
 		report: 'hw',
 		data: {
